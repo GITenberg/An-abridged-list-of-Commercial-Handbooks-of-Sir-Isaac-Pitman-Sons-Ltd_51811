@@ -1,0 +1,27 @@
+_repo: An-abridged-list-of-Commercial-Handbooks-of-Sir-Isaac-Pitman-Sons-Ltd_51811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Isaac Pitman & Sons
+    aliases:
+    - Sir Isaac Pitman & Sons
+    - Isaac Pitman and Sons
+    - Pitman & Sons
+    gutenberg_agent_id: '46562'
+    url: http://www.gutenberg.org/2009/agents/46562
+description: ''
+gutenberg_issued: '2016-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs'
+- !lcsh 'Isaac Pitman & Sons -- Catalogs'
+- !lcc 'Z'
+- GITenberg
+title: An abridged list of Commercial Handbooks of Sir Isaac Pitman & Sons, Ltd.
+url: http://www.gutenberg.org/ebooks/51811
